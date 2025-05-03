@@ -287,3 +287,4 @@ studentList.addEventListener("click", (e) => {
     });
   }
 });
+alert("test");
